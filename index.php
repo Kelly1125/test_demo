@@ -31,7 +31,7 @@ table{
     <div>
     <img src="https://th.bing.com/th/id/R.7f49db5c9271969c41b3050939f4d844?rik=FWObzJUqXkfF1g&riu=http%3a%2f%2fprestongeocem.com%2fwp-content%2fuploads%2f2018%2f02%2flogo-uthm-web.png&ehk=sfH1cYPY9YINFXl23vAgAAJKbmRs2yvtIv7KVjOdEug%3d&risl=&pid=ImgRaw&r=0" style="width: 800px;height: 350px; margin-left:auto;margin-right: auto">
     <?php
-    echo "<h2>BIC 21203 Web Development</h2>";
+    echo "<h2>BIC 21203 Webpage Development</h2>";
     echo "<h3>Section 5</h3>";
     echo "<br/><p>Name          : Kelly Foo Yen Li</p>";
     echo "<p>Matric No.    : AI190265</p>";
