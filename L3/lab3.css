@@ -1,0 +1,47 @@
+body {
+    background-color:floralwhite;
+    font-family: serif;
+    color: darkslateblue;
+  }
+  h2{             
+      padding: 20px;
+      background-color: plum;
+      color: midnightblue;
+      text-align: center;
+      width: 100%;            
+      font-family: serif;
+  }
+  ul {
+      list-style-type: none;
+      padding: 10px;
+      top: 1;
+      width: 100%;            
+      font-size: 14pt;
+      font-family: serif;
+  }
+  li{
+      display: inline;
+      border-right: 1px;            
+  }
+  h5{      
+      padding: 10px;
+      text-align: center;
+  }
+  table{
+  border: 1px solid black;
+  font: size 36px;;
+  margin-left:auto;
+  margin-right:auto;
+  }
+  p{
+      font-size: 16pt;            
+      font-family:serif;
+  }
+  footer{    
+      text-align: center;
+      position:relative;
+      bottom: 0;
+      width: 100%;   
+      background-color:cornflowerblue;
+      color: midnightblue;      
+  } 
