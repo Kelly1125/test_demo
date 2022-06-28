@@ -45,7 +45,7 @@ table{
     </tr>
     
         <td>3</td>       
-        <td> <a href=".\l3\home.php">Lab 3 </a></td>
+        <td> <a href=".\L3\home.php">Lab 3 </a></td>
         <td>In this assignment, I had learned how to code the style 
             sheet for a web site and arrange the content of the website. 
             There are many knowledges learned such as how to set the 
@@ -56,7 +56,7 @@ table{
     </tr>
     <tr>
         <td>4</td>        
-        <td> <a href=".\l4\product.php"> Lab 4 </a></td>
+        <td> <a href=".\L4\product.php"> Lab 4 </a></td>
         <td>In this lab, I had learned how to store data in local 
             storage and call data from local storage, create scroll 
             container for content, using JavaScript to manage the 
